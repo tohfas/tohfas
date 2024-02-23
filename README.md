@@ -1,10 +1,5 @@
 
-
-<!--
-**tohfas/tohfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**About me:** 
 - 🔭 I’m currently pursuing MS Computing from The Australian National University. 
 - 🌱 I did my B.Tech from Jamia Millia Islamia University (NIRF Rank 3), New Delhi. I worked full-time at Amazon India nad EXL Services.
 - 👯 I’m looking to collaborate on Software Developement
