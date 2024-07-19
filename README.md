@@ -2,11 +2,11 @@
 **About me:** 
 - 🔭 I’m currently pursuing MS Computing from The Australian National University (QS Rank 30). 
 - 🌱 I did my B.Tech from Jamia Millia Islamia University (NIRF Rank 3), New Delhi. I worked full-time at Amazon India and EXL Services.
-- 👯 I’m looking to collaborate on Software Developement and Artificial Intelligence
-- 💬 Ask me about Software development, Machine Learning, Data Science and Analytics
+- 👯 I’m looking to collaborate in the field of Software Developement and Artificial Intelligence.
+- 💬 Ask me about Software development, Machine Learning, Data Science and Analytics.
 - 📫 How to reach me: email me at tohfasiddika22@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Coding and decoding with keyboard play
+- ⚡ Fun fact: Coding and decoding with keyboard play.
 
 
 ## 🌐 Socials:
