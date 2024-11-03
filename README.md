@@ -1,6 +1,6 @@
 
 **About me:** 
-- 🔭 I’m currently pursuing MS Computing from The Australian National University (QS Rank 30). 
+- 🔭 I’m currently pursuing MS Computing from The Australian National University (QS Rank 30), worked as  Artificial Intelligence Intern at Research Graph Foundtation Ltd. 
 - 🌱 I did my B.Tech from Jamia Millia Islamia University (NIRF Rank 3), New Delhi. I worked full-time at Amazon India and EXL Services.
 - 👯 I’m looking to collaborate in the field of Software Developement and Artificial Intelligence.
 - 💬 Ask me about Software development, Machine Learning, Data Science and Analytics.
